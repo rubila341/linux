@@ -1,26 +1,3 @@
-  146  cd "C:/Users/alfred/git/linux/12.linux H.A/"
-  147  git add history.txt
-  148  git commit -m "Add history.txt with command history"
-  149  git pull origin main
-  150  git push origin main
-  151  cd C:/Users/alfred/git/linux
-  152  git clone https://github.com/rubila341/Linux777.git
-  153  cd Linux777
-  154  git checkout -b feature
-  155  touch README.md
-  156  git add README.md .gitignore
-  157  git config --global core.autocrlf false
-  158  git commit -m "Initial commit"
-  159  git commit --amend -m "Initial commit - amend"
-  160  git checkout main
-  161  git branch
-  162  git checkout master
-  163  git branch -a
-  164  git checkout master
-  165  git checkout -b master
-  166  git fetch origin
-  167  git checkout main
-  168  git checkout master
   169  cd C:/Users/alfred/git/linux
   170  git clone https://github.com/rubila341/linux.git
   171  git checkout -b feature
